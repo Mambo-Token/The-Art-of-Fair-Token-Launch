@@ -22,7 +22,7 @@ $XMAS, $Yeshua, $KING $Jesus $CHRIST
 And all Solidcoins have to be launched fair, but with solidcoins there is no need to suppress early whales accumulation.
 In contrary, it would help a lot to get some liquidity.
 Solidcoins are only sold publicly (or partially minted), no closed presales or preallocations.
-Preallocations of solidcoins are in such mimimal quantities that it can be ignored:
-Example: for the hard work of kas.fyi with all the gathering of logo's and socials for all KRC-20 tokens for free,   
+Preallocations of solidcoins are in such mimimal quantities that it can be ignored:  
+Example: for the hard work of https://kas.fyi with all the gathering of logo's and socials for all KRC-20 tokens for free,   
 we spend a little amount of tokens into his account (look out for $Gold, $Cafe $Franc...):  
 kaspa:qrvsfvasrlt00fnw934rn25fw282fezysyyqkhzld46keggsg7pjxg59tkk96

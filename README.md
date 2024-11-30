@@ -13,9 +13,16 @@ We consider up to 5% as still 100% fair - if all other tokens are distributed.
 7. There must be funds to fund liquidity for swaps. Funds come only from public sales. Without funds, the token is hanging on thin air. Here fail all so called 100% fair mint projects
 8. The majority of funds 70% or more should be used for token liquidity and price support.
 
-This is how Mambo & friens Memecoins are launched!
-$Mambo $Whales $Lion $Rock $Eagle
-Memecoins of friends Mambo helped to deploy with the Mambo fair launch approach:
-$MadMax, $Apes $Banana $Eagles $Eagle $Yuge
-$Mama
-$Jesus $Yeshua $King $XMAS
+This is how Mambo & friens Memecoins are launched!  
+$Mambo $Whales $Lion $Rock $Eagle $Manny (The Mammoth)  
+Memecoins of friends Mambo helped to deploy with the Mambo fair launch approach:  
+$MadMax, $Jumbo $Apes $Banana $Eagles $Eagle  $Yuge $Mama   
+$XMAS, $Yeshua, $KING $Jesus $CHRIST  
+-.--.-.
+And all Solidcoins have to be launched fair, but with solidcoins there is no need to suppress early whales accumulation.
+In contrary, it would help a lot to get some liquidity.
+Solidcoins are only sold publicly (or partially minted), no closed presales or preallocations.
+Preallocations of solidcoins are in such mimimal quantities that it can be ignored:
+Example: for the hard work of kas.fyi with all the gathering of logo's and socials for all KRC-20 tokens for free,   
+we spend a little amount of tokens into his account (look out for $Gold, $Cafe $Franc...):  
+kaspa:qrvsfvasrlt00fnw934rn25fw282fezysyyqkhzld46keggsg7pjxg59tkk96
